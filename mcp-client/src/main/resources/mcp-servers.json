@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "Python_MCP_Server": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--with",
+        "mcp[cli]",
+        "mcp",
+        "run",
+        "C:\\Users\\hp\\Documents\\EMSI\\Projects\\MCP-AI-Agents\\mcp-demo-spring-python\\mcp-python-server\\server.py"
+      ]
+    }
+  }
+}
